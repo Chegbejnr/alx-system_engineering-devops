@@ -1,0 +1,2 @@
+#!/bin/bash
+echo "An acrostic is a poem..." | cut -c 1 | paste -sd ''
