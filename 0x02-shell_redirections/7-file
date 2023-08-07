@@ -1,13 +1,2 @@
 #!/bin/bash
-
-# Define the file name
-Best_School='\*\\\'"Best School"'\\*$\?\*\*\*\*\*:)'
-
-# Create the file with the specified content
-echo "Best School" > "$Best_School"
-echo "File '$Best_School' created with content 'Best School'."
-
-# Add a new line to the file
-echo >> "$Best_School"
-echo "New line added to '$Best_School'."
-
+echo "Best School" > \*\\"'"Best School"\'"\\*$\?\*\*\*\*\*:)
