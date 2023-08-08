@@ -1,2 +1,5 @@
 #!/bin/bash
-echo $BEST  BEST="SChool" BEST="School"
+BEST="School"
+echo "BEST=$BEST"
+BEST="School"
+echo "BEST=$BEST"
