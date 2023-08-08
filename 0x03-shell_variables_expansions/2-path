@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "ls" $PATH /action
+echo "ls" $PATH:/action
